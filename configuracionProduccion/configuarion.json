@@ -1,5 +1,6 @@
 {
 	"ip": "192.168.30.111",
 	"namedb":"faf_multitenant_go",
-	"url": "https://xubio.com/NXV/"
+	"url": "https://xubio.com/NXV/",
+	"checkmonolitico":true
 }
