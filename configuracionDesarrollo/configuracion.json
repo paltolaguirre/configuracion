@@ -1,0 +1,12 @@
+{
+	"ip": "192.168.30.111",
+	"namedb":"faf_multitenant_go",
+	"url":"http://localhost:8080/NXV/",
+	"checkmonolitico":false,
+	"versionlegajo":1,
+	"versionnovedad":1,
+	"versionliquidacion":1,
+	"versionconcepto":1,
+	"versionsecurity":1
+	
+}
