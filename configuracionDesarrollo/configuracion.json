@@ -1,12 +1,22 @@
 {
 	"ip": "192.168.30.111",
 	"namedb":"faf_multitenant_go",
-	"url":"http://localhost:8080/NXV/",
-	"checkmonolitico":false,
+	"passdb":"Post66MM/",
+	"protocolomonolitico":"https",
+	"dominiomonolitico":"localhost",
+	"puertomonolitico":"8443",
+	"protocolomicroservicio":"http",
+	"dominiomicroservicio":"localhost",
+	"puertomicroserivicioautenticacion":"8081",
+	"puertomicroserviciolegajo":"8083",
+	"puertomicroserivicionovedad":"8086",
+	"puertomicroserivicioliquidacion":"8085",
+	"puertomicroserivicioconcepto":"8084",
+	"puertomicroseriviciohelpers":"8082",
+	"checkmonolitico":true,
 	"versionlegajo":1,
 	"versionnovedad":1,
 	"versionliquidacion":1,
 	"versionconcepto":1,
 	"versionsecurity":1
-	
 }
