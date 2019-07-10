@@ -14,6 +14,7 @@
 	"puertomicroservicioliquidacion":"8085",
 	"puertomicroservicioconcepto":"8084",
 	"puertomicroserviciohelpers":"8082",
+	"puertomicroservicioinformes":"8087",
 	"checkmonolitico":false,
 	"versionlegajo":1,
 	"versionnovedad":1,
