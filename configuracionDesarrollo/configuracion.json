@@ -1,6 +1,6 @@
 {
-	"ip": "192.168.30.111",
-	"namedb": "faf_multitenant_go",
+	"ip": "192.168.30.116",
+	"namedb": "FAF_MULTITENANT_GO",
 	"passdb": "Post66MM/",
 	"protocolomonolitico": "https",
 	"dominiomonolitico": "localhost",
