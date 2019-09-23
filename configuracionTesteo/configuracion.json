@@ -2,6 +2,7 @@
 	"ip": "35.169.157.9",
 	"namedb": "faf_multitenant_go",
 	"passdb": "Post66MM.",
+	"ssldb": "disable",
 	"protocolomonolitico": "https",
 	"dominiomonolitico": "xubiotesting2.ddns.net",
 	"puertomonolitico": "443",
