@@ -17,9 +17,9 @@
 	"puertomicroserviciohelpers": "8082",
 	"puertomicroservicioinformes": "8087",
 	"checkmonolitico": false,
-	"versionlegajo": 1,
+	"versionlegajo": 2,
 	"versionnovedad": 1,
-	"versionliquidacion": 2,
-	"versionconcepto": 1,
+	"versionliquidacion": 3 ,
+	"versionconcepto": 2,
 	"versionsecurity": 1
 }
