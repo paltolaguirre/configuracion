@@ -18,8 +18,8 @@
 	"puertomicroservicioinformes": "80",
 	"checkmonolitico": true,
 	"versionlegajo": 2,
-	"versionnovedad": 1,
-	"versionliquidacion": 3,
-	"versionconcepto": 3,
+	"versionnovedad": 2,
+	"versionliquidacion": 5,
+	"versionconcepto": 4,
 	"versionsecurity": 1
 }
