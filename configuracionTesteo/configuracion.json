@@ -16,10 +16,12 @@
 	"puertomicroservicioconcepto": "80",
 	"puertomicroserviciohelpers": "80",
 	"puertomicroservicioinformes": "80",
+	"puertomicroserviciosiradig": "80",
 	"checkmonolitico": false,
 	"versionlegajo": 2,
 	"versionnovedad": 2,
 	"versionliquidacion": 5,
 	"versionconcepto": 5,
-	"versionsecurity": 1
+	"versionsecurity": 1,
+	"versionsiradig": 1
 }
