@@ -18,6 +18,7 @@
 	"puertomicroservicioinformes": "8087",
 	"puertomicroserviciosiradig": "8088",
 	"puertomicroservicioformula": "8089",
+	"puertomicroservicioliquidacionfinalanual": "8090",
 	"checkmonolitico": false,
 	"versionlegajo": 2,
 	"versionnovedad": 2,
@@ -25,5 +26,6 @@
 	"versionconcepto": 7,
 	"versionsecurity": 1,
 	"versionsiradig": 1,
-	"versionformula": 1
+	"versionformula": 1,
+	"versionliquidacionfinalanual":1
 }
