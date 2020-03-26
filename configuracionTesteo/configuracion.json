@@ -1,5 +1,5 @@
 {
-	"ip": "35.169.157.9",
+	"ip": "sueldos-postgres9-4-12-staging.cnpjt3ggcooq.us-east-1.rds.amazonaws.com",
 	"namedb": "faf_multitenant_go",
 	"passdb": "Post66MM.",
 	"ssldb": "disable",
