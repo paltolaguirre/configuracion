@@ -26,6 +26,7 @@
 	"versionconcepto": 13,
 	"versionsecurity": 1,
 	"versionsiradig": 1,
-	"versionformula": 1,
-	"versionliquidacionfinalanual":1
+	"versionformula": 2,
+	"versionliquidacionfinalanual":1,
+	"tenanttest": "tnt_143124"
 }
