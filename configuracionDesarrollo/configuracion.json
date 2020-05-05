@@ -18,15 +18,13 @@
 	"puertomicroservicioinformes": "8087",
 	"puertomicroserviciosiradig": "8088",
 	"puertomicroservicioformula": "8089",
-	"puertomicroservicioliquidacionfinalanual": "8090",
 	"checkmonolitico": false,
 	"versionlegajo": 2,
 	"versionnovedad": 3,
 	"versionliquidacion": 8,
-	"versionconcepto": 14,
+	"versionconcepto": 15,
 	"versionsecurity": 1,
 	"versionsiradig": 1,
 	"versionformula": 3,
-	"versionliquidacionfinalanual":1,
 	"tenanttest": "tnt_199439"
 }
