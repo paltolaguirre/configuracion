@@ -18,6 +18,7 @@
 	"puertomicroservicioinformes": "8087",
 	"puertomicroserviciosiradig": "8088",
 	"puertomicroservicioformula": "8089",
+	"puertomicroservicioactualizacion": "8090",
 	"checkmonolitico": false,
 	"versionlegajo": 2,
 	"versionnovedad": 3,
