@@ -19,13 +19,13 @@
 	"puertomicroserviciosiradig": "80",
 	"puertomicroservicioformula": "80",
 	"checkmonolitico": false,
-	"versionlegajo": 2,
+	"versionlegajo": 3,
 	"versionnovedad": 3,
 	"versionliquidacion": 8,
-	"versionconcepto": 15,
-	"versionsecurity": 1,
+	"versionconcepto": 18,
+	"versionsecurity": 2,
 	"versionsiradig": 1,
-	"versionformula": 7,
+	"versionformula": 8,
 	"tenanttest": "tnt_199439",
 	"tokenformulapublic": "u4hEferLanyy6y4RHGhjsv3fx0OQDtyIm3KAcSCWOcI"
 }
