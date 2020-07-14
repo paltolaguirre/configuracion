@@ -22,11 +22,11 @@
 	"checkmonolitico": false,
 	"versionlegajo": 3,
 	"versionnovedad": 5,
-	"versionliquidacion": 10,
-	"versionconcepto": 20,
+	"versionliquidacion": 11,
+	"versionconcepto": 21,
 	"versionsecurity": 2,
-	"versionsiradig": 1,
-	"versionformula": 9,
+	"versionsiradig": 2,
+	"versionformula": 10,
 	"tenanttest": "tnt_199439",
 	"tokenformulapublic": "u4hEferLanyy6y4RHGhjsv3fx0OQDtyIm3KAcSCWOcI"
 }
