@@ -19,7 +19,7 @@
 	"puertomicroserviciosiradig": "8088",
 	"puertomicroservicioformula": "8089",
 	"puertomicroservicioactualizacion": "8090",
-	"puertomicroserviciotareas": "8091",
+	"puertomicroserviciotarea": "8091",
 	"checkmonolitico": false,
 	"versionlegajo": 3,
 	"versionnovedad": 5,
@@ -28,7 +28,7 @@
 	"versionsecurity": 2,
 	"versionsiradig": 2,
 	"versionformula": 10,
-	"versiontaskmanager": 1,
+	"versiontarea": 1,
 	"tenanttest": "tnt_199439",
 	"tokenformulapublic": "u4hEferLanyy6y4RHGhjsv3fx0OQDtyIm3KAcSCWOcI",
 	"codeSecurity": "cGF2Zw5idXJnQGZpbm5lZ2Fucy5jb20uYXI6mTIzMTIzMTIzOnRudF8zNjMzNg="
